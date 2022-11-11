@@ -1,0 +1,25 @@
+.Navegador{
+    background: linear-gradient(90deg, hsla(0, 0%, 5%, 1) 0%, hsla(126, 82%, 33%, 1) 100%);
+}
+
+.bg-theme{
+    background: linear-gradient(90deg, hsla(79, 74%, 32%, 1) 0%, hsla(210, 5%, 8%, 1) 100%);
+}
+.bg-card{
+    background: rgba(145, 140, 169, 1);
+}
+.bg-card2{
+    background: linear-gradient(90deg, hsla(208, 33%, 21%, 1) 0%, hsla(211, 36%, 46%, 1) 100%);
+}
+.bg-text{
+    background: linear-gradient(90deg, hsla(205, 46%, 10%, 1) 0%, hsla(191, 28%, 23%, 1) 50%, hsla(207, 41%, 27%, 1) 100%);
+}
+.bg-characters{
+    background: linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%);
+}
+.color{
+    box-shadow: 0 0 30px #9bafd9;
+}
+.bg-characters2{
+    background: linear-gradient(90deg, hsla(165, 60%, 11%, 1) 0%, hsla(149, 54%, 31%, 1) 100%);
+}
